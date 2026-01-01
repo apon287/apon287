@@ -1,9 +1,9 @@
 
 <h3 align="center">I am an android and maybe website developer</h3>
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Golang,Rust**
 
-- 💬 Ask me about **SvelteKit, Flutter, Nodejs**
+- 💬 Ask me about **SvelteKit, Flutter, Nodejs,Golang,Rust**
 
 - 📫 How to reach me: **appgokeifeedback@gmail.com**
 
@@ -15,7 +15,7 @@
 <a href="https://t.me/gokeihub" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="ali" height="30" width="40" /></a>
 <a href="https://instagram.com/apon10406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apon10406" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100094350981741" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="apon10406" height="30" width="40" /></a>
-<a href="https://www.x.com/gokeihub66" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="gokeihub66" height="30" width="40" /></a>
+<a href="https://www.x.com/apon0666" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="apon0666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -87,17 +87,9 @@
         <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40"/>
     </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokeihub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokeihub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gokeihub.gokeihub&"  />
 </div>
-
-
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokeihub&" alt="gokeihub" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apon287&" alt="apon287" />
 </p>
